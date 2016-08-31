@@ -38,9 +38,8 @@ body {
   }
 }
 .nav-pane h1 {
-  margin: 0;
-  text-align: center;
-  color: #F1F1F1;
+  margin-left: 5%;
+  color: black;
   text-transform: uppercase;
   font-size: 1.5rem;
 }
@@ -111,4 +110,8 @@ body {
   opacity: 1;
   -webkit-transition: 250ms;
   transition: 250ms;
+}
+
+.nav-pane a :hover{
+  color:#EE3E43;
 }
