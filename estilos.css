@@ -1,0 +1,14 @@
+
+.head img{
+	width: 100%;
+	max-height: 100vh;
+}
+.ingresa{
+	background-color: rgba(0, 179, 174,0.8) !important;
+	position: absolute;
+	margin-top: 75vh;
+	border-radius: 4px;
+	font-family:'Roboto Condensed', sans-serif;
+	font-size: 40px;
+	text-transform: inherit;
+}

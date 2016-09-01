@@ -9,6 +9,7 @@ body {
   -webkit-transition: 250ms;
   transition: 250ms;
   position: fixed;
+  z-index: 100;
   -webkit-transform: translateX(-350px);
           transform: translateX(-350px);
   top: 0;
@@ -51,7 +52,8 @@ body {
 }
 
 .toggle-nav {
-  position: absolute;
+  position: fixed;
+  z-index: 100;
   top: 25px;
   right: 25px;
   cursor: pointer;
