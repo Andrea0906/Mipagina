@@ -8902,7 +8902,7 @@ input[type=search]:focus.invalid + label:after,
 textarea.materialize-textarea.invalid + label:after,
 textarea.materialize-textarea:focus.invalid + label:after {
   content: attr(data-error);
-  color: #F44336;
+  color: black;
   opacity: 1;
 }
 
