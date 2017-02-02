@@ -10,3 +10,20 @@
 	font-size: 40px;
 	text-transform: inherit;
 }*/
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+.form{
+	margin-top:1%;
+	/*background-color: #40514E;*/
+	
+}
+.buscar{
+	width: 60%;
+	background-color: #625772;
+	border-radius: 20px;
+}
+
