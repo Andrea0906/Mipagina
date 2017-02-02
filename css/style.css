@@ -144,12 +144,12 @@
    z-index: 3;
 }
 
-/*.input .spin {
+.input .spin {
    background: #ED2553;
    z-index: 4;
    width: 0;
 }
-*/
+
 .overbox .input .spin {
    background: rgba(255, 255, 255, 1);
 }
